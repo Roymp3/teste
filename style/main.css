@@ -1,0 +1,140 @@
+body{
+   height: 100%;
+   margin: 0;
+}
+ h1{
+
+   font-variant-east-asian: full-width;
+   margin-top: 0px;
+
+ }
+ h2{
+        font-family: Verdana;
+        font-size: large;
+
+ }
+ h3{
+
+    font-family: Verdana;
+        font-size: large;
+
+
+ }
+ h4{
+
+    font-family: Verdana;
+        font-size: large;
+
+ }
+ h5{
+
+    font-family: Verdana;
+        font-size: large;
+
+ }
+ h6{
+
+     
+    font-family: Verdana;
+        font-size: large;
+ }
+ img{            
+      width: 25%;
+               
+
+ }
+ iframe{
+
+    width: 30%;
+
+ }
+ #um{
+     width: 15%;
+
+ }
+ #dois{
+
+     width: 15%;
+ }
+ p{
+
+     font-size: medium;
+     font-family: Arial;
+     margin: 0;
+ }
+ 
+ li{
+
+
+      text-align: left;
+      font-family: Arial;
+ }
+ #salve{
+
+
+    color: blue;
+
+ }
+ #oii{
+
+
+     color: blue;
+ }
+ #git{
+
+    font-size: medium;
+     font-family: verdana;
+   
+
+ }
+ #neymito{
+
+    height: 200px;
+    width: 15%;
+
+ }
+ header h1{
+
+   margin-top: 0px;
+   background-color: blue(115, 255, 0);
+ }
+ header{
+
+   background-color: blue;
+ }
+ section{
+
+    margin: 0px;
+   background-color: rgb(255, 0, 0);
+ }
+ footer{
+
+   background-color: rgb(238, 255, 0);
+   
+ }
+ section h2{
+
+   margin-top: 0;
+ }
+ h2{
+
+   margin-top: 0;
+ }
+ #margin{
+
+   margin: 0;
+ }
+#margin2{
+
+   margin: 0;
+}
+#margin3{
+
+   margin: 0;
+}
+#margin4{
+
+   margin: 0;
+}
+
+ 
